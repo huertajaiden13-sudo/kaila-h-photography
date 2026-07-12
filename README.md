@@ -1,0 +1,1 @@
+Replace the placeholder images in the images folder with your photos named gallery1.jpg, gallery2.jpg, etc.
